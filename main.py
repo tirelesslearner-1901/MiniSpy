@@ -38,7 +38,7 @@ keys_info_e = "e_key_log.txt"
 system_info_e = "e_system_log.txt"
 clipboard_info_e = "e_clipboard_log.txt"
 
-key = "ws8hdhed8eeneei"  #generate encryption key from cryptography folder
+key = " "  #generate encryption key from cryptography folder
 
 
 microphone_time = 10
